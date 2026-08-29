@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "88e54b68b5b92d11",
+  "active": "bfa4b9ac5db2369e",
   "lastOpenFiles": [
+    "Load Balancers.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Load Balancers.md",
     "Tech/Admission Controllers.md",
     "2026-08-24.md",
     "Personal/Books.md",
