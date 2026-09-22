@@ -4,58 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b624c7cce1bce18",
+        "id": "617fd924a86c8d76",
         "type": "tabs",
         "children": [
           {
-            "id": "a569728ba8711ec4",
+            "id": "24d89534a1c27b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-24"
-            }
-          },
-          {
-            "id": "d1fa54c821631c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Load Balancers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Load Balancers"
-            }
-          },
-          {
-            "id": "bfa4b9ac5db2369e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "88e54b68b5b92d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
+                "file": "Tech/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,17 +22,31 @@
             }
           },
           {
-            "id": "3d4f1b3b626028a9",
+            "id": "41c0630b9248e205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Admission Controllers.md",
+                "file": "Tech/DOUBTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Admission Controllers"
+              "title": "DOUBTS"
+            }
+          },
+          {
+            "id": "f00cef81eb962af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exposure Handshake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exposure Handshake"
             }
           }
         ],
@@ -137,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3738385083cc0093",
@@ -154,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Static Pods.md",
+                "file": "Exposure Handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -242,13 +213,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bfa4b9ac5db2369e",
+  "active": "f00cef81eb962af1",
   "lastOpenFiles": [
-    "Load Balancers.md",
-    "Untitled.md",
+    "Tech/DOUBTS.md",
+    "Exposure Handshake.md",
+    "Tech/Untitled 1.md",
     "Untitled 1.md",
-    "Tech/Admission Controllers.md",
+    "Tech/Work links.md",
+    "Untitled.md",
+    "2026-08-31.md",
     "2026-08-24.md",
+    "Fin/10 Step Investing process.md",
+    "Tech/Admission Controllers.md",
+    "Tech/Load Balancers.md",
+    "Tech/Untitled.md",
     "Personal/Books.md",
     "Fin/Excels/~$My_Fin_.xlsx",
     "Fin/Excels/My_Fin_.xlsx",
@@ -264,7 +242,6 @@
     "hello.md",
     "Fin/Stocks.md",
     "Fin/Warren Buffet.md",
-    "Tech/Work links.md",
     "Day to Day/2026-08-22.md",
     "().md",
     "Attachements",
